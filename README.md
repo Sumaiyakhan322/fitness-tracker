@@ -1,5 +1,5 @@
 ## The website name is :  Fit-Flex-Online
-## Live link of this website is:[Click here to go to  Fit-Flex-Online website ](https://fitness-traker-ff4bf.web.app)
+## Live link of this website is:[Fit-Flex-Online website ](https://fitness-traker-ff4bf.web.app)
 
 ## The  Fit-Flex-Online is a website of many features
 
