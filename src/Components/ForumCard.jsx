@@ -11,8 +11,8 @@ const ForumCard = ({forum}) => {
     
     const [liked, setLiked] = useState(false);
     const [disliked, setDisliked] = useState(false);
-    const { user } = useContext(AuthContext);
-  
+    // const { user } = useContext(AuthContext);
+  const {user}=useContext(AuthContext)
     const handleLikeClick = () => {
       setLiked(!liked);
       setDisliked(false);
