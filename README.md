@@ -12,5 +12,5 @@ The major 5 features of the websites are:
 * On the bid requests page user find the bids of his jobs he can reject or accept any job .If he reject/ accaept the job the button will be hide
 * On the my bids section user find the bids job he find the status in progress,pending and complete .On the status in progress he can complete  the job
 
-## The languages and frame works user here
+## The languages and frame works used here
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,express,mongodb,nodejs)](https://skillicons.dev)
